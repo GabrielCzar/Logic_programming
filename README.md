@@ -1,2 +1,4 @@
-# Logic-programming-
-Exercises using logic language
+# Logic Programming
+_Exercises using logic language Prolog_
+
+
